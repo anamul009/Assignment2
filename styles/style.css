@@ -45,3 +45,14 @@
     display: block;
   }
 }
+
+
+.spin{
+  animation-duration: 4s;
+}
+
+.join{
+  background-image: url('../assets/news-letter-bg.png');
+  margin-top: 120px;
+}
+ 
